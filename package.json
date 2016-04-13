@@ -1,0 +1,22 @@
+{
+  "name": "smooth-jsdoc",
+  "version": "0.0.1",
+  "description": "Clean and minimal JSDoc 3 Template / Theme",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remy199210/SmoothJSDoc.git"
+  },
+  "author": "Rémy Drouet <contact@remy-drouet.fr>",
+  "licenses": [{
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+  }],
+  "bugs": {
+    "url": "https://github.com/remy199210/SmoothJSDoc/issues"
+  },
+  "homepage": "https://github.com/remy199210/SmoothJSDoc"
+}
