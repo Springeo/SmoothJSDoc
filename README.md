@@ -9,11 +9,12 @@ A clean, responsive documentation template theme for JSDoc 3.
 - [the Taffy Database library](http://taffydb.com/)
 - [Underscore Template library](http://documentcloud.github.com/underscore/#template)
 - [Montserrat](http://www.google.com/fonts/specimen/Monsterrat) & Helvetica Neue
+- [minami](https://github.com/nijikokun/minami)
 
 ## Install
 
 ```bash
-$ npm install --save-dev minami
+$ npm install --save-dev smooth-jsdoc
 ```
 
 ## Usage
@@ -21,7 +22,7 @@ $ npm install --save-dev minami
 Clone repository to your designated `jsdoc` template directory, then:
 
 ```bash
-$ jsdoc entry-file.js -t path/to/minami
+$ jsdoc entry-file.js -t path/to/smooth-jsdoc
 ```
 
 ### Node.js Dependency
@@ -38,7 +39,7 @@ In your `.jsdoc.json` file, add a template option.
 
 ```json
 "opts": {
-  "template": "node_modules/minami"
+  "template": "node_modules/smooth-jsdoc"
 }
 ```
 
@@ -67,7 +68,7 @@ In your `.jsdoc.json` file, add a template option.
         "encoding": "utf8",
         "private": true,
         "recurse": true,
-        "template": "./node_modules/minami"
+        "template": "./node_modules/smooth-jsdoc"
     }
 }
 ```
