@@ -2,7 +2,7 @@
 
 A clean, responsive documentation template theme for JSDoc 3.
 
-![SmoothJSDoc Screenshot](https://raw.githubusercontent.com/remy199210/SmoothJSDoc/master/screenshots/smooth-jsdoc.png)
+![Minami Screenshot](http://puu.sh/gOyNe/66c3adcb97.png)
 
 ## Uses
 
