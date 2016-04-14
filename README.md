@@ -1,6 +1,11 @@
-# SmoothJSDoc (based on Minami)
+# SmoothJSDoc (based on [minami](https://github.com/nijikokun/minami))
 
 A clean, responsive documentation template theme for JSDoc 3.
+
+## What's new :
+- search engine
+- expandable nav menu
+- smooth navigation
 
 ![Minami Screenshot](http://puu.sh/gOyNe/66c3adcb97.png)
 
