@@ -54,7 +54,7 @@ function search(inSearch){
             match = false;
             for (var link of searchMap[key].links) {
               var broReg = new RegExp(bros[i],'i');
-              if (match = broReg.test(link));
+              if (match = broReg.test(link))
                 break;
             }
           }
